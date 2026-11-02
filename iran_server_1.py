@@ -3,7 +3,7 @@
 import babase
 import base64 as _b
 import zlib as _z
-print("ok)
+print("ok")
 # ba_meta export babase.Plugin
 class PrivateChatPlugin(babase.Plugin):
     pass
