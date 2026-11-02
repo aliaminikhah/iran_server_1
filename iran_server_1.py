@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 # ba_meta require api 9
 
+import babase
 import base64 as _b
 import zlib as _z
-import babase
 
 # ba_meta export babase.Plugin
 class PrivateChatPlugin(babase.Plugin):
