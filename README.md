@@ -14,5 +14,5 @@ path = os.path.join(
 )
 
 urllib.request.urlretrieve(url, path)
-print("پلاگین نصب شد؛ بازی را کامل ببند و دوباره باز کن.")
+print("پلاگین نصب شد؛ بازی کامل ببندید و دوباره باز کنید.")
 ```
